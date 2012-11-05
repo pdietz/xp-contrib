@@ -4,13 +4,13 @@
 
   <!-- The Basics -->
   <groupId>net.xp-framework</groupId>
-  <artifactId>ietf</artifactId>
+  <artifactId>punycode</artifactId>
   <version>5.8.10</version>
   <packaging>xar</packaging>
 
   <!-- More Project Information -->
-  <name>IETF XP-Module</name>
-  <description>The IETF module is an add-on to the XP framework that adds support of different standards defined by IETF. Currently only UUID and PunyCode is implemented.</description>
+  <name>Punycode XP-Module</name>
+  <description>The Punycode module is an add-on to the XP framework that adds support of  encoding in internationalized domain names.</description>
   <url>https://github.com/xp-framework/xp-contrib</url>
   <inceptionYear>2001</inceptionYear>
   <organization>

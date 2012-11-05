@@ -4,13 +4,13 @@
 
   <!-- The Basics -->
   <groupId>net.xp-framework</groupId>
-  <artifactId>ecma</artifactId>
+  <artifactId>teamcall</artifactId>
   <version>5.8.10</version>
   <packaging>xar</packaging>
 
   <!-- More Project Information -->
-  <name>ECMA XP-Module</name>
-  <description>ECMA STLI Client (Simple Telephony Interface)</description>
+  <name>TeamCall XP-Module</name>
+  <description>TeamCall STLI Client (Simple Telephony Interface)</description>
   <url>https://github.com/xp-framework/xp-contrib</url>
   <inceptionYear>2001</inceptionYear>
   <organization>
